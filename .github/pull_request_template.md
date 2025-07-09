@@ -3,3 +3,5 @@
 ## Cómo? <!-- Descripción específica de cómo lograste el objetivo, incluyendo los pasos realizados -->
 
 ## Info adicional <!-- Información adicional como fotos comparativas en caso de UI o temas pendientes -->
+
+<!-- Template de pr disponible en https://github.com/currencybirdspa/.github -->
