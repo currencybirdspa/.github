@@ -1,7 +1,9 @@
-## Qué? <!-- Descripción general de lo que hiciste, tratar de que sea una frase -->
+## Qué?
 
-## Cómo? <!-- Descripción específica de cómo lograste el objetivo, incluyendo los pasos realizados -->
 
-## Info adicional <!-- Información adicional como fotos comparativas en caso de UI o temas pendientes -->
+
+## Info adicional
+
+
 
 <!-- Template de pr disponible en https://github.com/currencybirdspa/.github -->
